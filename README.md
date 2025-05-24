@@ -3,6 +3,8 @@
 
 Original GitHub repo: https://github.com/facebookresearch/detr
 
+Paper Source: Carion, N., Massa, F., Synnaeve, G., Usunier, N., Kirillov, A. and Zagoruyko, S., 2020, August. End-to-end object detection with transformers. In European conference on computer vision (pp. 213-229).
+
 # Set-up
 First, clone the repository locally. Then, install PyTorch 1.5+ and torchvision 0.6+:
 ```
